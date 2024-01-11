@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">projektFlags</string>
+    <string-array name="panstwa">
+        <item>Holandia</item>
+        <item>Austria</item>
+        <item>Bulgaria</item>
+        <item>Niemcy</item>
+        <item>Estonia</item>
+    </string-array>
+</resources>
